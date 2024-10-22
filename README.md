@@ -11,4 +11,4 @@ Este repositorio contiene una colección de componentes reutilizables y personal
 
 ---
 
-Hecho en [Astro](https://astro.build) con ❤️ por Luis Vázquez.
+Hecho en 🚀 [Astro](https://astro.build) con ❤️ por Luis Vázquez.
