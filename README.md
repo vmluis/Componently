@@ -1,2 +1,10 @@
-# Componently
-Este repositorio contiene una colección de componentes de interfaz de usuario reutilizables diseñados para ser modulares, escalables y fácilmente integrables en aplicaciones web. El objetivo de esta biblioteca es agilizar el proceso de desarrollo proporcionando un conjunto coherente de bloques de construcción para interfaces de usuario.
+# Librería de Componentes en React
+
+Este repositorio contiene una colección de componentes reutilizables y personalizables de React, diseñados para acelerar el desarrollo de aplicaciones web modernas. La librería está enfocada en ofrecer componentes de alta calidad que se integran fácilmente en cualquier proyecto.
+
+## Características Principales
+
+- **Diseño Modular**: Cada componente es independiente y reutilizable en múltiples proyectos.
+- **Personalizable**: Los componentes están diseñados para ser fácilmente personalizados mediante props, estilos y temas.
+- **Responsive y Accesible**: Desarrollado con un enfoque de diseño móvil primero y buenas prácticas de accesibilidad.
+- **Optimizado para el Rendimiento**: Componentes ligeros con dependencias mínimas.
