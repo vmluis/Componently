@@ -8,3 +8,7 @@ Este repositorio contiene una colección de componentes reutilizables y personal
 - **Personalizable**: Los componentes están diseñados para ser fácilmente personalizados mediante props, estilos y temas.
 - **Responsive y Accesible**: Desarrollado con un enfoque de diseño móvil primero y buenas prácticas de accesibilidad.
 - **Optimizado para el Rendimiento**: Componentes ligeros con dependencias mínimas.
+
+---
+
+Hecho en [Astro](https://astro.build) con ❤️ por Luis Vázquez.
