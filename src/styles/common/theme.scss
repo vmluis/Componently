@@ -1,0 +1,16 @@
+@use "../vars/colors.scss";
+
+body {
+    @include colors.light-theme;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        @include colors.dark-theme;
+    }
+}
+
+body {
+    color: var(--font-color);
+    background-color: var(--body-bg);
+}
